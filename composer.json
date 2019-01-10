@@ -1,0 +1,11 @@
+{
+    "name": "ngeony/jekajora",
+    "description": "This is part of code that need to apply by composer",
+    "authors": [
+        {
+            "name": "Nita Gheorghii",
+            "email": "nita.ngeony@gmail.com"
+        }
+    ],
+    "require": {}
+}
